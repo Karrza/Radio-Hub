@@ -15,7 +15,7 @@ Radio Hub lets you listen to internet radio stations from around the world witho
 - **Playback integration** — radio playback can pause automatically when Spotify music starts playing.
 - **Minimal interface** — a clean design intended to feel at home inside Spotify.
 
-![Radio Hub preview](photo.pg)
+![Radio Hub preview](photo.png)
 ## Requirements
 
 - Spotify for Windows
