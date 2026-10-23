@@ -1,4 +1,4 @@
-# Radio Hub
+Radio Hub
 
 **A minimal internet radio player built into Spotify using Spicetify.**
 
