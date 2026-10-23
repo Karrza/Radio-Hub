@@ -60,6 +60,12 @@ Radio Hub lets you listen to internet radio stations from around the world witho
 
 8. Completely close and reopen Spotify. Radio Hub should appear in the sidebar.
 
+To get the direct stream url do this:
+1. Open the radio page in Chrome and press F12.
+2. Go to Network → Media (or All).
+3. Start the radio and look for the active audio request.
+4. Right-click it → Copy → Copy URL.
+   
 ## Uninstallation
 
 1. Completely close Spotify.
