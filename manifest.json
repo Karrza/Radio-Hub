@@ -1,0 +1,16 @@
+{
+  "name": "Radio Hub",
+  "description": "A minimal internet radio player for Spotify.",
+  "preview": "preview.png",
+  "readme": "README.md",
+  "authors": [
+    {
+      "name": "Karrza",
+      "url": "https://github.com/Karrza"
+    }
+  ],
+  "tags": [
+    "radio",
+    "music"
+  ]
+}
