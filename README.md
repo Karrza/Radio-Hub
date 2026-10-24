@@ -6,7 +6,6 @@ Radio Hub lets you listen to internet radio stations from around the world witho
 
 ## Features
 
-- **Discover radio stations** — find internet radio stations from around the world.
 - **My Radio Stations** — keep your own collection of saved stations.
 - **Custom stations** — add stations and their stream URLs.
 - **Station artwork** — personalize stations with your own cover images.
